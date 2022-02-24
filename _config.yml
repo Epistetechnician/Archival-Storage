@@ -22,7 +22,7 @@ url: "https://epistetechnician.github.io/Archival-Storage/" # the base hostname 
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "Epistetechinician/Archival-Storage"
+repository: "Archival-Storage"
 
 # Build settings
 plugins:
